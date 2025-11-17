@@ -3,4 +3,5 @@ This my personal high school project. It's a 2D top-down arcade style infinite s
 This is video demo or something ......
 (enjoy maybe?)
 
-<video width="500" src="https://github.com/liveneutron/schooooool_project/raw/refs/heads/master/recording.mkv"></video>
+https://github.com/user-attachments/assets/7c8de9f4-ad36-480b-88ab-bdc56d5a23a4
+
